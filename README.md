@@ -243,7 +243,7 @@ output/                          # Default: --output-dir
 │   ├── content-photo.png
 │   └── screenshot_2024.webp
 │
-└── images/                         # File JSON hasil fetch
+└── posts/                         # File JSON hasil fetch
     ├── post_ctg_5_page_1_limit_10.json
     ├── post_ctg_5_page_2_limit_10.json
     └── my-awesome-post-slug.json   # Hasil dari --save-post
