@@ -235,7 +235,7 @@ python wpjson.py -c
 ---
 
 ## 📁 Struktur Output
-
+# Buat Folder sesuai contoh dibawah
 ```
 output/                          # Default: --output-dir
 ├── images/                      # Semua gambar yang didownload
@@ -448,7 +448,7 @@ Distributed under **MIT License**. Lihat [`LICENSE`](LICENSE) untuk informasi le
 ```
 MIT License
 
-Copyright (c) 2024 Your Name
+Copyright (c) 2024 Ahmad Sofyan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -473,7 +473,7 @@ Terima kasih untuk:
 
 ---
 
-> 🇮🇩 **Dibuat dengan ❤️ untuk developer Indonesia**  
+> pjson-Python-CLI **Dibuat dengan ❤️ untuk developer Indonesia**  
 > *Semoga tool ini membantu migrasi, backup, atau integrasi WordPress Anda menjadi lebih mudah!*
 
 ---
@@ -485,7 +485,7 @@ Terima kasih untuk:
 
 **📬 Contact**  
 Punya pertanyaan, bug report, atau feature request?  
-👉 Buka [Issue](https://github.com/yourusername/wpjson-python/issues) atau DM saya!
+👉 Buka [Issue](https://github.com/ahmadsopyan9/Wpjson-Python-CLI/issues) atau DM saya!
 
 ---
 
