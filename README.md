@@ -235,7 +235,7 @@ python wpjson.py -c
 ---
 
 ## 📁 Struktur Output
-# Buat Folder sesuai contoh dibawah
+#### Buat Folder sesuai contoh dibawah
 ```
 output/                          # Default: --output-dir
 ├── images/                      # Semua gambar yang didownload
