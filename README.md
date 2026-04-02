@@ -67,7 +67,7 @@
 
 ```bash
 # Clone atau download script
-git clone https://github.com/yourusername/wpjson-python.git
+git clone https://github.com/ahmadsopyan9/Wpjson-Python-CLI.git
 cd wpjson-python
 
 # Install dependencies
@@ -85,7 +85,7 @@ pip install -r requirements.txt
 
 ### Cara 1: Clone Repository
 ```bash
-git clone https://github.com/yourusername/wpjson-python.git
+git clone https://github.com/ahmadsopyan9/Wpjson-Python-CLI.git
 cd wpjson-python
 pip install -r requirements.txt
 chmod +x wpjson.py
@@ -93,7 +93,7 @@ chmod +x wpjson.py
 
 ### Cara 2: Download Langsung
 ```bash
-curl -O https://raw.githubusercontent.com/yourusername/wpjson-python/main/wpjson.py
+curl -O https://raw.githubusercontent.com/ahmadsopyan9/Wpjson-Python-CLI/main/wpjson.py
 pip install requests
 chmod +x wpjson.py
 ```
